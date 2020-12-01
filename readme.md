@@ -12,8 +12,7 @@
 
 <br />
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/AbdullahNoori/github-readme-stats)
+[![AB's github stats](https://github-readme-stats.vercel.app/api?username=AbdullahNoori)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
