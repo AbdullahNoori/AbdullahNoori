@@ -1,19 +1,11 @@
-### Hi there, I'm Abdullah aka [AB]
+### Hi there 👋, Hi there !, AB Noori
+#### Student, Design and Development
+![Student, Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-## I'm a student and future Developer!
-- I'm currently attending MakeSchool
-- I'm looking to collaborate with other content creators.
-- I am a Co-founder of AVA.
-- 2020 Goals: Graduate from MakeSchool, grow AVA and land a developer career for a fortune 500 company
+I'm AB from San Francisco, California and I do content on Design and Development. I really enjoy languages and frameworks like JavaScript and Django. I'm looking to collaborate with other content creators. I am also a Co-founder of AVA. My Current 2020 Goals: Graduate from MakeSchool, grow AVA and land a developer career for a fortune 500 company.
 
-### Connect with me:
+Skills: JavaScript / HTML / CSS/Python/Swift
 
-[<img align="left" alt="AbdullahNoori" width="22px" src="https://www.bloemfonteincourant.co.za/wp-content/uploads/2018/07/digital-coding-785.jpg">]
-
-<br />
-
-[![AB's github stats](https://github-readme-stats.vercel.app/api?username=AbdullahNoori)](https://github.com/anuraghazra/github-readme-stats)
-
-
+- 🔭 I’m currently working on this page. 
 
 
