@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there !, AB Noori
+### Hi there 👋, AB Noori
 #### Student, Design and Development
 ![Student, Design and Development](https://cdnb.artstation.com/p/assets/images/images/012/699/841/large/sana-shaikh-conceptfinal4.jpg?1536080556&dl=1)
 
