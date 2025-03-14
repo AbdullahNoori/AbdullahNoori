@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I’m Abdullah 🚀<br>A passionate React Native & Web Developer from Kabul, currently pursuing Computer Science at Kardan University. I love crafting immersive and high-performance applications using React, React Native, and TypeScript.<br><br>💡 What I Do:<br>📱 Mobile & Web Development – Building modern, scalable applications with React & React Native.<br>🎨 UI/UX & Styling – Crafting clean, intuitive designs using Tailwind CSS & NativeWind.<br>🛠 Authentication & State Management – Developing secure and dynamic user experiences.<br>🌱 Always Growing:<br>Mastering Reanimated for smooth animations.<br>Exploring full-stack development.<br>Strengthening fundamental programming concepts.
+Hey there! I’m Abdullah 🚀<br><br>A passionate React Native & Web Developer from Kabul, currently pursuing Computer Science at Kardan University. I love crafting immersive and high-performance applications using React, React Native, and TypeScript.<br><br>💡 What I Do:<br><br>📱 Mobile Apps Development <br><br>🎨 UI/UX & Styling – using Tailwind CSS & NativeWind.<br><br>🛠 Authentication & State Management<br><br>🌱 Always Growing:<br><br>Mastering Reanimated for smooth animations.<br><br>Exploring full-stack development.<br><br>Strengthening fundamental programming concepts.
 
 
 ## 🌐 Socials:
