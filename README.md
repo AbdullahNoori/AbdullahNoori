@@ -1,6 +1,6 @@
-## Hello
+## Abdullah Noori
 
-I'm Abdullah Noori, a React Native developer and Reanimated Enthusiast.
+Hello, I'm Abdullah Noori, a React Native developer and Reanimated Enthusiast.
 
 ## Achievements
 
